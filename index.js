@@ -31,7 +31,7 @@
 const express = require('express');
 const multer = require('multer');
 const mongoose = require('mongoose');
-const path = require('path'); // Add this line to import the 'path' module
+const path = require('path'); 
 
 const app = express();
 const port = 3000;
